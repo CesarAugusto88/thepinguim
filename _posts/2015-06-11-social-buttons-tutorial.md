@@ -13,9 +13,9 @@ You can edit them with the following variables:
 <pre><code data-trim class="yaml">
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/cesarcosta.augustos"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/cesaraugustodem"
   - title: "github"
     url: "https://github.com/PanosSakkos/personal-jekyll-theme"
   - title: "bitcoin"
